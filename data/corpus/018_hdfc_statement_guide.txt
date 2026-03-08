@@ -55,6 +55,6 @@ Website: https://www.camsonline.com/InvestorServices/CAMSstatement
 
 Password for PDF Statement:
 HDFC Fund statements are typically encrypted with the first 8 characters of PAN (uppercase) + date of birth in DDMMYYYY format.
-Example: If PAN is ABCDE1234F and DOB is 01/01/1990, password = ABCDE1230 1011990
+Example: If PAN is ABCDE1234F and DOB is 01/01/1990, password = ABCDE123401011990
 
 Note: Do not share your account statement password with anyone. HDFC Mutual Fund will never ask for your password.
