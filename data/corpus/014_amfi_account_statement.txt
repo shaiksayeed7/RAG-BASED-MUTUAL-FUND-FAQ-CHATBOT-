@@ -1,0 +1,63 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/mf-account-statement
+SOURCE_NAME: AMFI - Mutual Fund Account Statement Guide
+LAST_ACCESSED: December 2024
+
+AMFI - HOW TO DOWNLOAD MUTUAL FUND ACCOUNT STATEMENT (CAS)
+
+What is a CAS (Consolidated Account Statement)?
+A CAS (Consolidated Account Statement) is a single statement that consolidates details of all your mutual fund investments across all AMCs linked to your PAN. It is issued by NSDL and CDSL (Registrars/Depositories) and sent to investors' registered email addresses monthly if there are any transactions.
+
+How to Download CAS (Consolidated Account Statement)?
+
+Method 1: Through CAMS (Computer Age Management Services)
+Website: https://www.camsonline.com/InvestorServices/CAMSstatement
+1. Go to https://www.camsonline.com
+2. Click on "Investor Services" → "CAS - CAMS + KFintech"
+3. Enter your registered email ID or PAN
+4. Select the statement type and period
+5. Enter your PAN and date of birth/folio number for authentication
+6. Statement will be sent to your registered email address
+
+Method 2: Through KFintech (formerly Karvy)
+Website: https://www.kfintech.com/investor-services
+1. Go to https://mfs.kfintech.com
+2. Click on "Account Statement"
+3. Enter PAN, email, and other details
+4. Statement delivered to email
+
+Method 3: Through NSDL (For Demat account holders)
+Website: https://eservices.nsdl.com
+
+Method 4: Through AMC Website (Scheme-specific statement)
+HDFC Mutual Fund: https://www.hdfcfund.com/service/download-account-statement
+1. Log in to HDFC Fund online portal with PAN/folio number
+2. Go to "Account Statement"
+3. Select date range and download
+
+Method 5: Through Groww App
+1. Open Groww app
+2. Go to Profile → Reports
+3. Select "Account Statement"
+4. Download for required period
+
+How to Download Capital Gains Statement?
+A Capital Gains Statement shows your realized gains/losses from mutual fund redemptions during a financial year. Used for income tax filing.
+
+From CAMS: https://www.camsonline.com/InvestorServices/CAMSstatement
+1. Visit https://www.camsonline.com
+2. Select "Capital Gains Statement" option
+3. Enter PAN, registered email, financial year
+4. Statement sent to email
+
+From HDFC Fund Website: https://www.hdfcfund.com/service/tax-documents
+- Login to HDFC Fund online portal
+- Go to "Tax Documents" → "Capital Gains Statement"
+- Select financial year and download
+
+How to Download ELSS Tax Statement?
+For Section 80C tax-saving proof of ELSS investment:
+- From HDFC Fund: https://www.hdfcfund.com/service/tax-documents
+- From CAMS: https://www.camsonline.com (Investor Services → Tax Statements)
+- The statement shows investment amounts eligible for 80C deduction
+
+Statement Formats: Statements are available in PDF format (encrypted with PAN and DOB) and Excel format.

@@ -1,0 +1,61 @@
+SOURCE_URL: https://www.hdfcfund.com/our-products/equity-funds/hdfc-elss-tax-saver
+SOURCE_NAME: HDFC ELSS Tax Saver - Official Scheme Page
+LAST_ACCESSED: December 2024
+
+HDFC ELSS Tax Saver (formerly HDFC Long Term Advantage Fund)
+
+Category: ELSS (Equity Linked Saving Scheme)
+Type: Open-Ended Equity Linked Saving Scheme with a statutory lock-in of 3 years and tax benefit
+Benchmark Index: NIFTY 500 TRI (Total Return Index)
+Fund Manager: Roshi Jain
+Fund Manager (Overseas Investments): Priya Ranjan
+Inception Date: January 2, 2013
+ISIN (Regular - Growth): INF179K01FE7
+ISIN (Direct - Growth): INF179K01FF4
+
+Investment Objective:
+To generate long-term capital appreciation from a portfolio that is invested predominantly in equity and equity-related instruments.
+
+Asset Allocation:
+- Equity and Equity Related Instruments: 80%–100%
+- Debt and Money Market Instruments: 0%–20%
+
+Statutory Lock-in Period: 3 years from the date of allotment
+(Mandatory for all investments made under ELSS. Units cannot be redeemed, switched-out, or pledged before 3 years.)
+
+Tax Benefits:
+- Investment up to Rs. 1,50,000 per financial year qualifies for deduction under Section 80C of the Income Tax Act, 1961.
+- Tax benefit is available only under the old tax regime.
+- After 3-year lock-in, LTCG tax of 12.5% applies on gains exceeding Rs. 1,25,000 per year.
+
+Minimum Investment:
+- Minimum Lump Sum: Rs. 500
+- Minimum SIP (Systematic Investment Plan): Rs. 500 per installment
+- Minimum SIP Installments: 3
+
+Exit Load: Nil
+(No exit load since all units are subject to a mandatory 3-year lock-in period.)
+
+Expense Ratio (as of November 2024):
+- Regular Plan: 1.73% per annum
+- Direct Plan: 1.02% per annum
+
+Riskometer: Very High Risk
+(This means the fund is suitable for investors with very high risk tolerance. Principal is at very high risk.)
+
+Plans Available: Regular Plan, Direct Plan
+Options: Growth, IDCW (Income Distribution cum Capital Withdrawal - applicable after 3-year lock-in)
+
+Important ELSS Lock-in Rules:
+1. Each SIP installment is subject to its own 3-year lock-in from the date of allotment of that installment.
+2. Units allotted in January 2022 can be redeemed from January 2025.
+3. Units allotted in February 2022 can be redeemed from February 2025, and so on.
+4. Partial redemption is allowed after lock-in, subject to units being unlocked.
+
+How to Invest:
+- Visit www.hdfcfund.com or use the Groww app
+- Complete KYC if not done
+- Minimum investment Rs. 500 for lump sum or SIP
+- Investments made before March 31 of a financial year are eligible for 80C deduction for that year
+
+This scheme is tracked on Groww at: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund

@@ -1,0 +1,60 @@
+SOURCE_URL: https://www.hdfcfund.com/service/download-account-statement
+SOURCE_NAME: HDFC Mutual Fund - Download Account Statement Guide
+LAST_ACCESSED: December 2024
+
+HDFC MUTUAL FUND - HOW TO DOWNLOAD ACCOUNT STATEMENT
+
+HDFC Mutual Fund offers multiple ways to download your account statement.
+
+Method 1: HDFC Fund Online Portal
+Website: https://www.hdfcfund.com/service/download-account-statement
+Steps:
+1. Visit https://www.hdfcfund.com
+2. Click on "Login" (top right corner)
+3. Enter your User ID (PAN or Folio Number) and password
+4. Go to "Transact" → "Account Statement"
+5. Select statement type: Regular Statement or Capital Gains Statement
+6. Choose start date and end date
+7. Click "Download" - PDF will be generated and sent to your registered email
+
+Method 2: Without Login (Email-based)
+1. Visit https://www.hdfcfund.com/service/download-account-statement
+2. Enter your email address and PAN
+3. Select statement period
+4. Statement is emailed to your registered email address
+
+Method 3: WhatsApp
+1. Save HDFC Fund's WhatsApp number: +91-22-6751-6400
+2. Send "Hi" to start
+3. Select "Account Statement" option
+4. Follow the prompts to receive your statement
+
+Method 4: IVR (Phone)
+Call HDFC Mutual Fund: 1800-3010-6767 (toll-free) or 044-49099000
+Request account statement through IVR
+
+Statement Types Available:
+1. Transaction Statement: Shows all your transactions (purchases, redemptions, dividends, SIP installments)
+2. Capital Gains Statement: Shows realized capital gains/losses for income tax filing
+3. Portfolio Holdings Statement: Current holdings with purchase details
+4. ELSS Tax Statement: Investment details for Section 80C deduction (for HDFC ELSS Tax Saver)
+
+How to Download Capital Gains Statement from HDFC Fund:
+1. Login to https://www.hdfcfund.com
+2. Go to "Tax Reports" → "Capital Gains Statement"
+3. Select the financial year (e.g., April 2023 to March 2024)
+4. Download PDF or Excel format
+
+Statement from CAMS (for all AMCs including HDFC):
+CAMS manages HDFC Mutual Fund registrar services.
+Website: https://www.camsonline.com/InvestorServices/CAMSstatement
+1. Visit CAMS website
+2. Select "CAS" (Consolidated Account Statement) - covers all CAMS-managed AMCs
+3. Enter email ID and PAN
+4. Receive statement at registered email
+
+Password for PDF Statement:
+HDFC Fund statements are typically encrypted with the first 8 characters of PAN (uppercase) + date of birth in DDMMYYYY format.
+Example: If PAN is ABCDE1234F and DOB is 01/01/1990, password = ABCDE123401011990
+
+Note: Do not share your account statement password with anyone. HDFC Mutual Fund will never ask for your password.

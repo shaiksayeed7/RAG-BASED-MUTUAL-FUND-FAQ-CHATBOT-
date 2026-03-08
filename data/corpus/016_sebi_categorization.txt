@@ -1,0 +1,49 @@
+SOURCE_URL: https://www.sebi.gov.in/legal/circulars/oct-2018/categorization-and-rationalization-of-mutual-fund-schemes.html
+SOURCE_NAME: SEBI - Categorization and Rationalization of Mutual Fund Schemes
+LAST_ACCESSED: December 2024
+
+SEBI - CATEGORIZATION AND RATIONALIZATION OF MUTUAL FUND SCHEMES
+
+SEBI Circular: SEBI/HO/IMD/DF3/CIR/P/2017/114
+Date: October 6, 2017 (Revised by SEBI/HO/IMD/DF3/CIR/P/2018/174 dated November 13, 2018)
+Subject: Categorization and Rationalization of Mutual Fund Schemes
+
+This SEBI circular defined standard categories for mutual fund schemes to bring uniformity and avoid multiple schemes of similar nature from the same AMC.
+
+Equity Fund Categories Relevant to HDFC Corpus:
+
+1. Large Cap Fund:
+- Definition: Open-ended equity scheme predominantly investing in large cap stocks
+- Investment in Equity & Equity Related Instruments of Large Cap Companies: Minimum 80% of total assets
+- Large Cap defined as: 1st to 100th company in terms of full market capitalization (AMFI list)
+- HDFC Scheme: HDFC Top 100 Fund
+
+2. Flexi Cap Fund (Added in 2020):
+- Definition: Open-ended dynamic equity scheme investing across large cap, mid cap, small cap stocks
+- Investment in Equity & Equity Related Instruments: Minimum 65% of total assets
+- No restriction on market cap allocation (fund manager can allocate freely)
+- HDFC Scheme: HDFC Flexi Cap Fund
+
+3. Mid Cap Fund:
+- Definition: Open-ended equity scheme predominantly investing in mid cap stocks
+- Investment in Equity & Equity Related Instruments of Mid Cap Companies: Minimum 65% of total assets
+- Mid Cap defined as: 101st to 250th company in terms of full market capitalization (AMFI list)
+- HDFC Scheme: HDFC Mid-Cap Opportunities Fund
+
+4. ELSS (Equity Linked Saving Scheme):
+- Definition: Open-ended equity linked saving scheme with a statutory lock-in of 3 years and tax benefit
+- Investment in Equity & Equity Related Instruments: Minimum 80% of total assets
+- Statutory lock-in: 3 years from date of allotment
+- Tax benefit: Eligible for Section 80C deduction up to Rs. 1,50,000
+- HDFC Scheme: HDFC ELSS Tax Saver
+
+Market Capitalization Definitions (AMFI List, updated bi-annually):
+- Large Cap: 1st to 100th company by full market cap
+- Mid Cap: 101st to 250th company by full market cap
+- Small Cap: 251st company onwards by full market cap
+- AMFI updates this list every six months: https://www.amfiindia.com/research-information/other-data/categorization-of-stocks
+
+One Scheme Per Category Rule:
+As per SEBI circular, each AMC can offer only ONE scheme per category (with some exceptions). This prevents fund houses from having multiple overlapping schemes.
+
+Full circular text at: https://www.sebi.gov.in/legal/circulars/oct-2017/categorization-and-rationalization-of-the-schemes-of-mutual-funds.html

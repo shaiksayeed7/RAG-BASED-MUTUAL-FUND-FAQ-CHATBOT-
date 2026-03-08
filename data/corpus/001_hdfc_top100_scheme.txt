@@ -1,0 +1,61 @@
+SOURCE_URL: https://www.hdfcfund.com/our-products/equity-funds/hdfc-top-100-fund
+SOURCE_NAME: HDFC Top 100 Fund - Official Scheme Page
+LAST_ACCESSED: December 2024
+
+HDFC Top 100 Fund
+
+Category: Large Cap Fund
+Type: Open-Ended Equity Scheme predominantly investing in Large Cap Stocks
+Benchmark Index: NIFTY 100 TRI (Total Return Index)
+Fund Manager (Equity): Rahul Baijal
+Fund Manager (Overseas Investments): Priya Ranjan
+Inception Date: October 11, 1996
+ISIN (Regular - Growth): INF179K01BB8
+ISIN (Direct - Growth): INF179K01756
+
+Investment Objective:
+To provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+
+Asset Allocation:
+- Large Cap Equities: 80%–100%
+- Other Equities (Mid/Small Cap): 0%–20%
+- Debt and Money Market Instruments: 0%–20%
+
+Minimum Investment:
+- Minimum Lump Sum: Rs. 100
+- Minimum SIP (Systematic Investment Plan): Rs. 100 per installment
+- Minimum SIP Installments: 6
+
+Exit Load:
+- 1% if redeemed/switched-out within 1 year (365 days) from the date of allotment.
+- Nil after 1 year.
+- No exit load on units allotted through dividend reinvestment.
+
+Expense Ratio (as of November 2024):
+- Regular Plan: 1.76% per annum
+- Direct Plan: 0.87% per annum
+
+Riskometer: Very High Risk
+(This means the fund is suitable for investors with very high risk tolerance. Principal is at very high risk.)
+
+Tax Treatment:
+- Short-Term Capital Gains (STCG): Taxable at 20% if units redeemed within 1 year.
+- Long-Term Capital Gains (LTCG): 12.5% tax on gains exceeding Rs. 1,25,000 per year on units held for more than 1 year.
+
+Lock-in Period: None (No compulsory lock-in for this scheme)
+
+Plans Available: Regular Plan, Direct Plan
+Options: Growth, IDCW (Income Distribution cum Capital Withdrawal)
+
+How to Invest:
+1. Visit www.hdfcfund.com or the Groww app
+2. Complete KYC (Know Your Customer) if not already done
+3. Select HDFC Top 100 Fund and choose plan and option
+4. Invest via lump sum or SIP
+
+How to Redeem:
+- Online: Login to HDFC Fund website or Groww app, go to "Redeem" section
+- Offline: Submit redemption form at HDFC Fund office or investor service center
+- Exit load of 1% applies if redeeming within 1 year of investment
+
+This scheme is tracked on Groww at: https://groww.in/mutual-funds/hdfc-top-100-fund

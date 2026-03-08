@@ -1,0 +1,44 @@
+SOURCE_URL: https://www.hdfcfund.com/our-products/equity-funds/hdfc-midcap-opportunities-fund
+SOURCE_NAME: HDFC Mid-Cap Opportunities Fund - Official Scheme Page
+LAST_ACCESSED: December 2024
+
+HDFC Mid-Cap Opportunities Fund
+
+Category: Mid Cap Fund
+Type: Open-Ended Equity Scheme predominantly investing in Mid Cap stocks
+Benchmark Index: NIFTY Midcap 150 TRI (Total Return Index)
+Fund Manager: Chirag Setalvad
+Inception Date: June 25, 2007
+ISIN (Regular - Growth): INF179K01EJ9
+ISIN (Direct - Growth): INF179K01EK7
+
+Investment Objective:
+To provide long-term capital appreciation by investing predominantly in Mid-Cap companies.
+
+Asset Allocation:
+- Mid Cap Equities: 65%–100%
+- Other Equities (Large/Small Cap): 0%–35%
+- Debt and Money Market Instruments: 0%–20%
+
+Minimum Investment:
+- Minimum Lump Sum: Rs. 100
+- Minimum SIP (Systematic Investment Plan): Rs. 100 per installment
+- Minimum SIP Installments: 6
+
+Exit Load:
+- 1% if redeemed/switched-out within 1 year (365 days) from the date of allotment.
+- Nil after 1 year.
+
+Expense Ratio (as of November 2024):
+- Regular Plan: 1.68% per annum
+- Direct Plan: 0.76% per annum
+
+Riskometer: Very High Risk
+(This means the fund is suitable for investors with very high risk tolerance. Principal is at very high risk.)
+
+Lock-in Period: None (No compulsory lock-in for this scheme)
+
+What is a Mid Cap Fund?
+As per SEBI categorization, Mid Cap companies are those ranked 101st to 250th in terms of full market capitalization. A Mid Cap Fund must invest at least 65% of its assets in mid cap equities.
+
+This scheme is tracked on Groww at: https://groww.in/mutual-funds/hdfc-mid-cap-opportunities-fund

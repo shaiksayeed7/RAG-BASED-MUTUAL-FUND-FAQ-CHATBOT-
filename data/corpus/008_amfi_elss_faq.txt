@@ -1,0 +1,32 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/elss.html
+SOURCE_NAME: AMFI - ELSS (Equity Linked Saving Scheme) FAQ
+LAST_ACCESSED: December 2024
+
+AMFI - EQUITY LINKED SAVING SCHEME (ELSS) - FREQUENTLY ASKED QUESTIONS
+
+What is ELSS?
+ELSS stands for Equity Linked Saving Scheme. It is a type of open-ended equity mutual fund scheme that qualifies for tax deduction under Section 80C of the Income Tax Act, 1961. ELSS funds invest predominantly in equity and equity-related instruments.
+
+What is the lock-in period for ELSS?
+The lock-in period for ELSS is 3 years (36 months) from the date of allotment of units. This is a statutory requirement mandated by the Ministry of Finance (Equity Linked Saving Scheme, 2005 notification). Units cannot be redeemed, switched-out, or pledged before the completion of 3 years.
+
+How much tax can I save with ELSS?
+Under Section 80C of the Income Tax Act, 1961, you can claim deductions of up to Rs. 1,50,000 per financial year. ELSS investments qualify for this deduction under the old tax regime. Under the new tax regime (default from FY 2024-25 as per Budget 2023), Section 80C deductions including ELSS are NOT available.
+
+Can I do SIP in ELSS?
+Yes, you can invest in ELSS through SIP (Systematic Investment Plan). However, each SIP installment has its own 3-year lock-in period from the date of that installment's allotment. So if you invest via SIP monthly, each installment matures after 3 years from its respective allotment date.
+
+Is there an exit load in ELSS?
+Generally, ELSS funds do not have an exit load since all investments are subject to the mandatory 3-year lock-in period.
+
+Can I withdraw ELSS after 3 years?
+Yes, after the 3-year lock-in period, ELSS units can be redeemed, switched, or transferred at any time. After redemption, long-term capital gains (LTCG) tax of 12.5% applies on gains exceeding Rs. 1,25,000 per financial year (as per Finance Act 2024).
+
+What happens to ELSS tax benefit if I switch tax regimes?
+If you opt for the new tax regime, you cannot claim Section 80C deduction for ELSS investments. The lock-in period remains 3 years regardless of the tax regime.
+
+Which ELSS funds are available?
+All SEBI-registered mutual funds can offer ELSS schemes. You can find the list of all ELSS schemes at: https://www.amfiindia.com/schemes-performance
+
+AMFI Reference for ELSS Regulations: Ministry of Finance notification - Equity Linked Saving Scheme, 2005 (G.S.R. 765(E))
+SEBI Circular on ELSS: https://www.sebi.gov.in/legal/circulars/nov-2005/equity-linked-savings-scheme.html

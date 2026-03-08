@@ -1,0 +1,47 @@
+SOURCE_URL: https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds-existing-scheme-riskometer.html
+SOURCE_NAME: SEBI - Riskometer Circular for Mutual Funds
+LAST_ACCESSED: December 2024
+
+SEBI CIRCULAR ON RISKOMETER FOR MUTUAL FUNDS
+
+SEBI Circular Number: SEBI/HO/IMD/IMD-II DOF3/P/CIR/2020/198
+Date: October 5, 2020
+Subject: Product Labeling in Mutual Funds – Risk-O-Meter
+
+Background:
+SEBI previously had a 5-level riskometer. This circular updated it to a 6-level riskometer to provide more granular risk information to investors.
+
+Updated Risk Levels (Effective January 1, 2021):
+1. Low - Principal at Low Risk
+2. Low to Moderate - Principal at Low to Moderate Risk
+3. Moderate - Principal at Moderate Risk
+4. Moderately High - Principal at Moderately High Risk
+5. High - Principal at High Risk
+6. Very High - Principal at Very High Risk
+
+Key Provisions of the Circular:
+1. Monthly Evaluation: AMCs must evaluate and disclose the riskometer for each scheme at the end of every month.
+2. Change Notification: If the riskometer level changes, AMCs must communicate to all unit holders via email or SMS within 10 working days of the end of the month in which the change occurred.
+3. Website Disclosure: AMCs must display the riskometer on their website and in all scheme communications.
+4. Factsheet Disclosure: Riskometer must be prominently displayed in all factsheets.
+
+Methodology for Riskometer:
+For Equity Schemes:
+- Market Capitalization: Large cap = Lower risk; Mid/Small cap = Higher risk
+- Impact Cost: Higher impact cost = Higher risk
+- The methodology assigns scores that determine the final risk level
+
+For HDFC Mutual Fund schemes assessed under this circular:
+- HDFC Top 100 Fund: VERY HIGH (pure equity large cap)
+- HDFC Flexi Cap Fund: VERY HIGH (pure equity across market caps)
+- HDFC ELSS Tax Saver: VERY HIGH (pure equity ELSS)
+- HDFC Mid-Cap Opportunities Fund: VERY HIGH (pure equity mid cap)
+
+Disclaimer in SEBI circular:
+"The risk-o-meter shall be evaluated and disclosed at the end of every month. In case there is a change in the risk-o-meter of the scheme, the same shall be communicated by way of Notice cum Addendum and by intimating the investors through email/SMS."
+
+Full Circular Text Available At:
+https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds-existing-scheme-riskometer.html
+
+Related SEBI Circular:
+SEBI/HO/IMD/DF3/CIR/P/2019/140 dated November 13, 2019 - Product Labeling (earlier circular)

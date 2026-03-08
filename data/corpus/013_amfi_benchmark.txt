@@ -1,0 +1,46 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/benchmark.html
+SOURCE_NAME: AMFI - Benchmark Index for Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - BENCHMARK INDEX FOR MUTUAL FUNDS
+
+What is a Benchmark Index?
+A benchmark index is a standard reference index against which a mutual fund scheme's performance is measured. It represents the returns of the market or market segment the fund is investing in. The benchmark is disclosed in the scheme's KIM, SID, and factsheet.
+
+Why does a mutual fund need a benchmark?
+1. Performance Measurement: To assess whether the fund manager has added value (alpha) over the market.
+2. Investor Reference: Investors can compare the fund's performance against a freely available market index.
+3. SEBI Requirement: SEBI mandates each mutual fund scheme to have a designated benchmark.
+
+Types of Benchmark Indices (TRI vs. Price Return Index):
+- TRI (Total Return Index): Includes both capital gains AND dividends reinvested. SEBI mandated use of TRI as benchmark from February 1, 2018.
+- PRI (Price Return Index): Only includes capital gains (price movement), not dividends.
+- All benchmarks for mutual funds must now use TRI (Total Return Index) as per SEBI circular.
+
+Benchmarks for HDFC Mutual Fund Schemes:
+1. HDFC Top 100 Fund: NIFTY 100 TRI
+   - NIFTY 100 tracks the performance of the top 100 companies by full market capitalization listed on NSE
+   
+2. HDFC Flexi Cap Fund: NIFTY 500 TRI
+   - NIFTY 500 represents the top 500 companies by full market capitalization listed on NSE
+
+3. HDFC ELSS Tax Saver: NIFTY 500 TRI
+   - NIFTY 500 represents the top 500 companies by full market capitalization listed on NSE
+
+4. HDFC Mid-Cap Opportunities Fund: NIFTY Midcap 150 TRI
+   - NIFTY Midcap 150 tracks companies ranked 101 to 250 by full market capitalization
+
+What is the difference between NIFTY 50 and NIFTY 100?
+- NIFTY 50: Top 50 companies by market cap on NSE
+- NIFTY 100: Top 100 companies by market cap (includes NIFTY 50 companies)
+- NIFTY 500: Top 500 companies (includes large, mid, and small cap companies)
+- NIFTY Midcap 150: Companies ranked 101-250 by market cap
+
+Where to find benchmark information?
+- Scheme SID (Scheme Information Document): Always mentions the designated benchmark
+- Scheme KIM (Key Information Memorandum): Mentions benchmark and additional benchmark
+- Monthly factsheet of the AMC
+- AMFI scheme performance: https://www.amfiindia.com/schemes-performance
+
+SEBI Circular on TRI Benchmarks: SEBI/HO/IMD/DF3/CIR/P/2017/126 dated December 4, 2017
+At: https://www.sebi.gov.in/legal/circulars/dec-2017/benchmark-for-mutual-funds.html

@@ -1,0 +1,45 @@
+SOURCE_URL: https://www.sebi.gov.in/legal/circulars/sep-2018/total-expense-ratio-ter-of-mutual-fund-schemes.html
+SOURCE_NAME: SEBI - Total Expense Ratio (TER) Circular
+LAST_ACCESSED: December 2024
+
+SEBI - TOTAL EXPENSE RATIO (TER) OF MUTUAL FUND SCHEMES
+
+SEBI Circular: SEBI/HO/IMD/DF3/CIR/P/2018/197
+Date: October 5, 2018
+Subject: Total Expense Ratio (TER) of Mutual Fund Schemes
+
+This circular revised the TER (Total Expense Ratio) limits for mutual fund schemes in India.
+
+Maximum Permissible TER for Equity Schemes:
+- AUM up to Rs. 500 crore: 2.25%
+- AUM Rs. 500 crore to Rs. 750 crore: 2.00%
+- AUM Rs. 750 crore to Rs. 2,000 crore: 1.75%
+- AUM Rs. 2,000 crore to Rs. 5,000 crore: 1.60%
+- AUM Rs. 5,000 crore to Rs. 10,000 crore: 1.50%
+- AUM Rs. 10,000 crore to Rs. 50,000 crore: TER of the scheme calculated as per formula
+- AUM above Rs. 50,000 crore: 1.05% (with some additional allowances)
+
+Note: For large equity funds (AUM > Rs. 50,000 crore), the TER reduces as AUM grows. The formula ensures larger funds pass savings to investors.
+
+Additional TER Allowances:
+1. B30 Cities Incentive: Additional 0.30% TER allowed for inflows from beyond top 30 cities (B30 cities) to encourage financial inclusion
+2. Performance-based incentive for liquid/overnight/money market funds: Not applicable to equity funds
+
+Direct Plan TER:
+- Direct Plan TER = Regular Plan TER minus the trail commission/distribution expense
+- Direct Plans cannot have higher TER than Regular Plans
+- AMCs must pass through the savings from no distribution expense to Direct Plan investors
+
+Transparency Requirements:
+1. AMCs must disclose TER of each scheme on their website daily
+2. AMFI maintains a central repository of TER: https://www.amfiindia.com/expense-ratio
+3. Any change in TER must be notified to investors via email/SMS at least 3 working days before the change
+
+SEBI Prohibition on Brokerage in TER:
+As per SEBI circular, brokerage and transaction costs above 0.12% per annum cannot be charged to TER for equity schemes.
+
+Practical Implication for HDFC Funds:
+HDFC Flexi Cap Fund (AUM ~Rs. 65,847 crore) and HDFC Mid-Cap Opportunities Fund (AUM ~Rs. 75,212 crore) qualify as large funds. Their actual TER (1.46% and 1.68% regular plans) are within the SEBI limits adjusted for their AUM sizes.
+
+Full circular at: https://www.sebi.gov.in/legal/circulars/oct-2018/total-expense-ratio-ter-of-mutual-fund-schemes.html
+AMFI TER Disclosure Portal: https://www.amfiindia.com/expense-ratio
