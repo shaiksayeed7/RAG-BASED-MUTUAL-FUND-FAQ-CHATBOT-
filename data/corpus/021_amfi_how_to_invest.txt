@@ -1,0 +1,43 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/how-to-invest.html
+SOURCE_NAME: AMFI - How to Invest in Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - HOW TO INVEST IN MUTUAL FUNDS IN INDIA
+
+Step-by-Step Guide to Invest in Mutual Funds:
+
+Step 1: Complete KYC (Know Your Customer)
+KYC is mandatory for all mutual fund investors in India.
+Documents Required:
+- PAN Card (mandatory)
+- Proof of Address (Aadhaar, Passport, Voter ID, Driver's License, Utility Bill)
+- Photograph (passport size)
+How to do KYC:
+- Online via KYC Registration Agency (KRA): CVL KRA, CAMS KRA, Karvy KRA, NDML KRA
+- Online e-KYC using Aadhaar OTP: Through AMC website or distributor
+- KYC Portal: https://www.camskra.com or https://www.cvlkra.com
+
+Step 2: Choose Investment Mode
+- Direct Plan: Invest directly through AMC website (e.g., hdfcfund.com) - lower expense ratio
+- Regular Plan: Invest through distributor/agent (e.g., Groww, bank) - higher expense ratio but with advisory support
+
+Step 3: Select Scheme
+Choose a scheme based on your investment goal, time horizon, and risk tolerance.
+AMFI Scheme Selector: https://www.amfiindia.com/scheme-performance
+Fund categories available: Large Cap, Mid Cap, Small Cap, Flexi Cap, ELSS, Debt, Hybrid, etc.
+
+Step 4: Complete Investment
+- Online: AMC website or distributor app (like Groww)
+- Offline: Submit physical form at AMC branch or investor service center
+
+Step 5: Provide Bank Mandate (for SIP)
+For SIP, provide NACH/ECS mandate to auto-debit bank account.
+
+Important Notes:
+- No entry load is charged by any mutual fund in India (abolished August 2009 by SEBI)
+- A PAN card is mandatory for all mutual fund investments
+- All mutual funds are regulated by SEBI (Securities and Exchange Board of India)
+- AMFI (Association of Mutual Funds in India) is the industry body: https://www.amfiindia.com
+
+AMFI Investor Education Portal: https://www.amfiindia.com/investor-corner
+Mutual Fund Sahi Hai: https://www.mutualfundsahihai.com (AMFI's investor awareness campaign)

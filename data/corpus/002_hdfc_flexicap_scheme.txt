@@ -1,0 +1,56 @@
+SOURCE_URL: https://www.hdfcfund.com/our-products/equity-funds/hdfc-flexicap-fund
+SOURCE_NAME: HDFC Flexi Cap Fund - Official Scheme Page
+LAST_ACCESSED: December 2024
+
+HDFC Flexi Cap Fund
+
+Category: Flexi Cap Fund
+Type: Open-Ended Dynamic Equity Scheme investing across Large Cap, Mid Cap, Small Cap stocks
+Benchmark Index: NIFTY 500 TRI (Total Return Index)
+Fund Manager: Roshi Jain
+Fund Manager (Overseas Investments): Priya Ranjan
+Inception Date: January 1, 1995 (as HDFC Growth Fund; relaunched)
+ISIN (Regular - Growth): INF179K01226
+ISIN (Direct - Growth): INF179K01747
+
+Investment Objective:
+To generate capital appreciation/income over the long-term from a dynamically managed portfolio of equity and equity related securities across market capitalizations.
+
+Asset Allocation:
+- Equity and Equity Related Instruments (Across Market Caps): 65%–100%
+- Debt and Money Market Instruments: 0%–35%
+
+Minimum Investment:
+- Minimum Lump Sum: Rs. 100
+- Minimum SIP (Systematic Investment Plan): Rs. 100 per installment
+- Minimum SIP Installments: 6
+
+Exit Load:
+- 1% if redeemed/switched-out within 1 year (365 days) from the date of allotment.
+- Nil after 1 year.
+
+Expense Ratio (as of November 2024):
+- Regular Plan: 1.46% per annum
+- Direct Plan: 0.76% per annum
+
+Riskometer: Very High Risk
+(This means the fund is suitable for investors with very high risk tolerance. Principal is at very high risk.)
+
+Tax Treatment:
+- Short-Term Capital Gains (STCG): Taxable at 20% if units redeemed within 1 year.
+- Long-Term Capital Gains (LTCG): 12.5% tax on gains exceeding Rs. 1,25,000 per year on units held for more than 1 year.
+
+Lock-in Period: None (No compulsory lock-in for this scheme)
+
+Plans Available: Regular Plan, Direct Plan
+Options: Growth, IDCW (Income Distribution cum Capital Withdrawal)
+
+What is a Flexi Cap Fund?
+A Flexi Cap Fund is an open-ended dynamic equity scheme that can invest across market capitalizations — large cap, mid cap, and small cap companies — with no fixed allocation constraint. As per SEBI categorization, at least 65% of assets must be in equity and equity-related instruments.
+
+How to Invest:
+- Visit www.hdfcfund.com or use Groww app
+- Complete KYC if not already done
+- Invest via lump sum or SIP starting from Rs. 100
+
+This scheme is tracked on Groww at: https://groww.in/mutual-funds/hdfc-flexi-cap-fund

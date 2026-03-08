@@ -1,0 +1,48 @@
+SOURCE_URL: https://www.hdfcfund.com/content/dam/abc/india/assets/images/kim/hdfc-elss-tax-saver-kim.pdf
+SOURCE_NAME: HDFC ELSS Tax Saver - Key Information Memorandum (KIM)
+LAST_ACCESSED: December 2024
+
+HDFC ELSS TAX SAVER - KEY INFORMATION MEMORANDUM (KIM)
+
+Scheme Name: HDFC ELSS Tax Saver
+Type: Open-Ended Equity Linked Saving Scheme with a statutory lock-in of 3 years and tax benefit
+Category: ELSS
+
+Statutory Lock-in:
+- Mandatory lock-in period: 3 years from the date of allotment
+- Units cannot be redeemed, pledged, or transferred before completion of 3 years
+- For SIP investments, each installment has its own 3-year lock-in from its allotment date
+- Example: SIP installment paid on January 15, 2022 matures on January 15, 2025
+
+Tax Deduction under Section 80C:
+- Investments qualify for deduction up to Rs. 1,50,000 per financial year under Section 80C of the Income Tax Act, 1961
+- Tax benefit applicable only under the OLD tax regime
+- Under new tax regime (default from FY 2024-25), Section 80C deductions are NOT available
+- ELSS is one of the eligible instruments under Section 80C (along with PPF, NSC, life insurance, etc.)
+
+Load Structure:
+Entry Load: Not Applicable
+Exit Load: NIL
+(Since all units are locked in for 3 years, no exit load is levied after the lock-in period ends.)
+
+Recurring Expenses (Expense Ratio):
+- Regular Plan: Up to 2.25% per annum (actual ~1.73% as of November 2024)
+- Direct Plan: Lower than Regular Plan (actual ~1.02% as of November 2024)
+
+Minimum Application Amount:
+- Fresh Purchase (Lump Sum): Rs. 500 and any amount thereafter
+- Additional Purchase: Rs. 500 and any amount thereafter
+- SIP: Rs. 500 per installment (minimum 3 installments)
+
+Benchmark: NIFTY 500 TRI
+Riskometer Level: VERY HIGH
+
+Long-Term Capital Gains Tax (Post Lock-in):
+- After the 3-year lock-in, if units are held for more than 1 year (which they will be since lock-in is 3 years), they qualify for Long-Term Capital Gains
+- LTCG tax: 12.5% on gains exceeding Rs. 1,25,000 per year (as per Finance Act 2024)
+- No indexation benefit for equity mutual funds
+
+How ELSS Saves Tax:
+A taxpayer in the 30% tax bracket investing Rs. 1,50,000 in ELSS saves up to Rs. 46,800 in taxes (Rs. 1,50,000 × 30% + 4% cess) under the old tax regime.
+
+Note: ELSS does NOT guarantee returns. The tax saving is on the investment amount, not on returns.

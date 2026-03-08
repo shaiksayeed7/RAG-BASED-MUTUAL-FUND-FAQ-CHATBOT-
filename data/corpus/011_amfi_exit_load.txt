@@ -1,0 +1,51 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/exit-load.html
+SOURCE_NAME: AMFI - Exit Load in Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - EXIT LOAD IN MUTUAL FUNDS
+
+What is Exit Load?
+Exit load is a fee charged by a mutual fund scheme when an investor redeems (withdraws) units before a specified period. It is meant to discourage short-term investing and compensate the fund for the cost of early redemption. Exit load is charged as a percentage of the redemption amount.
+
+How is Exit Load calculated?
+Exit Load = Redemption Amount × Exit Load Rate
+
+For example:
+- You invest Rs. 1,00,000 in HDFC Top 100 Fund (Regular Plan)
+- You redeem after 6 months (within 1 year)
+- Exit load is 1%
+- Exit load charged = Rs. 1,00,000 × 1% = Rs. 1,000
+- Net proceeds = Rs. 99,000 (plus/minus any gains or losses on the investment)
+
+Entry Load: Entry load has been abolished for all mutual fund schemes in India since August 1, 2009, as per SEBI regulation. No mutual fund can charge entry load.
+
+Exit Load Rules for HDFC Mutual Fund Schemes:
+1. HDFC Top 100 Fund:
+   - 1% if redeemed/switched-out within 1 year (365 days) from allotment date
+   - Nil after 1 year
+
+2. HDFC Flexi Cap Fund:
+   - 1% if redeemed/switched-out within 1 year from allotment date
+   - Nil after 1 year
+
+3. HDFC ELSS Tax Saver:
+   - Nil (No exit load as units are locked in for 3 years)
+   - After 3-year lock-in: No exit load on redemption
+
+4. HDFC Mid-Cap Opportunities Fund:
+   - 1% if redeemed/switched-out within 1 year from allotment date
+   - Nil after 1 year
+
+Is exit load applicable on SWP (Systematic Withdrawal Plan)?
+Yes, exit load may apply on SWP units if they are within the exit load period. Check the specific scheme's KIM/SID for details.
+
+Is exit load applicable on IDCW (dividend) reinvestment?
+Typically, exit load is NOT applicable on units allotted through dividend reinvestment. This varies by scheme.
+
+Where to verify exit load?
+- Scheme KIM (Key Information Memorandum) available on AMC website
+- Scheme SID (Scheme Information Document) available on AMC website
+- AMFI website: https://www.amfiindia.com
+- Groww fund page for each scheme
+
+SEBI Regulation: As per SEBI (Mutual Funds) Regulations, 1996, exit load is capped at the discretion of the AMC subject to SEBI guidelines. The exit load collected goes back to the scheme (not to the AMC), helping remaining investors.

@@ -1,0 +1,43 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/sip.html
+SOURCE_NAME: AMFI - SIP (Systematic Investment Plan) FAQ
+LAST_ACCESSED: December 2024
+
+AMFI - SYSTEMATIC INVESTMENT PLAN (SIP) - FREQUENTLY ASKED QUESTIONS
+
+What is SIP?
+SIP stands for Systematic Investment Plan. It is a method of investing in mutual funds where an investor invests a fixed predetermined amount at regular intervals (monthly, quarterly, etc.) rather than investing a lump sum amount at one time. SIP is similar to a recurring deposit in a bank.
+
+How does SIP work?
+On a predefined date each month (or chosen frequency), a fixed amount is automatically debited from your bank account and invested in the selected mutual fund scheme. Corresponding mutual fund units are allotted based on the NAV (Net Asset Value) on that date.
+
+What is the minimum SIP amount?
+The minimum SIP amount varies across mutual fund schemes and AMCs. SEBI has not set a universal minimum, but many AMCs now offer SIPs starting from Rs. 100 per installment. For example:
+- HDFC Top 100 Fund: Minimum SIP Rs. 100 per installment
+- HDFC Flexi Cap Fund: Minimum SIP Rs. 100 per installment
+- HDFC ELSS Tax Saver: Minimum SIP Rs. 500 per installment
+- HDFC Mid-Cap Opportunities Fund: Minimum SIP Rs. 100 per installment
+
+Can I start a SIP on Groww?
+Yes, Groww is a registered mutual fund distributor (ARN-103168) through which you can start SIPs in all mutual fund schemes, including HDFC Mutual Fund schemes. Visit https://groww.in to start a SIP.
+
+How do I start a SIP?
+1. Complete your KYC (Know Your Customer) verification
+2. Choose a mutual fund scheme
+3. Select SIP as the investment mode
+4. Set the SIP date and amount
+5. Authorize auto-debit from your bank account via NACH/ECS mandate
+
+Can I increase or stop my SIP?
+Yes, you can increase (top-up SIP), pause, or stop your SIP by giving written/online instructions to the AMC or distributor. The notice period is typically 15-30 working days before the next SIP date.
+
+Is SIP the same as a recurring deposit (RD)?
+No. SIP in mutual funds invests your money in market-linked instruments (equity, debt, etc.), so returns are not guaranteed and vary based on market conditions. A bank RD offers fixed returns but typically lower than market-linked instruments over long term. SIP in equity funds carries higher risk than bank RDs.
+
+What is the benefit of rupee-cost averaging in SIP?
+When you invest regularly through SIP, you buy more units when the NAV is lower and fewer units when the NAV is higher. Over time, this averages out your cost of acquisition per unit. This is called Rupee Cost Averaging. It reduces the impact of market volatility.
+
+SIP and ELSS:
+For ELSS tax-saving investments, each SIP installment is locked in for 3 years separately. You cannot redeem the lump sum at the end of 3 years; instead, each installment becomes redeemable 3 years after its allotment date.
+
+Reference: SEBI Circular on SIP - https://www.sebi.gov.in
+AMFI SIP Register Guide: https://www.amfiindia.com/investor-corner/knowledge-center/sip-register

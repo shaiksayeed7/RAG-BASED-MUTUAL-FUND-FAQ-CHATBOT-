@@ -1,0 +1,51 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/types-of-mutual-funds.html
+SOURCE_NAME: AMFI - Types of Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - TYPES OF MUTUAL FUNDS IN INDIA
+
+Mutual funds in India are categorized by SEBI into the following broad types:
+
+1. EQUITY MUTUAL FUNDS
+These funds invest primarily in stocks (equity shares).
+- Large Cap Funds: Invest ≥80% in top 100 companies by market cap
+- Mid Cap Funds: Invest ≥65% in companies ranked 101-250 by market cap
+- Small Cap Funds: Invest ≥65% in companies ranked 251 and beyond
+- Flexi Cap Funds: Invest ≥65% in equity across all market caps (no cap restriction)
+- Multi Cap Funds: Invest ≥25% each in large, mid, and small cap
+- ELSS (Equity Linked Saving Scheme): ≥80% in equity; 3-year lock-in; eligible for 80C tax deduction
+- Sectoral/Thematic Funds: Invest in specific sectors (banking, IT, healthcare, etc.)
+
+2. DEBT MUTUAL FUNDS
+These funds invest in fixed-income instruments like bonds, T-bills, commercial paper.
+Types: Liquid Funds, Overnight Funds, Ultra Short Duration, Short Duration, Long Duration, etc.
+Risk: Generally lower risk than equity, but subject to interest rate risk and credit risk.
+
+3. HYBRID FUNDS
+These funds invest in both equity and debt.
+- Balanced Advantage Fund (BAF): Dynamically manages equity-debt allocation
+- Conservative Hybrid: 10-25% in equity, 75-90% in debt
+- Aggressive Hybrid: 65-80% in equity, 20-35% in debt
+
+4. INDEX FUNDS AND ETFs
+- Passive funds that track an index (NIFTY 50, NIFTY 100, etc.)
+- Lower expense ratio than actively managed funds
+
+5. FUND OF FUNDS
+- Invest in other mutual fund schemes
+- E.g., International Fund of Funds investing in overseas equity funds
+
+Key Concepts:
+- NAV (Net Asset Value): Price per unit of the mutual fund, calculated at end of each business day
+- SIP (Systematic Investment Plan): Regular investment at fixed intervals
+- Lump Sum: One-time investment
+- Redemption: Withdrawal of invested money by selling units back to AMC
+
+SEBI-Registered AMCs in India (as of 2024): 44 AMCs
+AMFI Member List: https://www.amfiindia.com/amfi-members
+SEBI Registration: All AMCs must be registered with SEBI under SEBI (Mutual Funds) Regulations, 1996
+
+Regulatory Framework:
+- Regulated by: SEBI (Securities and Exchange Board of India)
+- Industry Body: AMFI (Association of Mutual Funds in India)
+- Trustee Oversight: Each AMC has an independent Trustee Company/Board of Trustees

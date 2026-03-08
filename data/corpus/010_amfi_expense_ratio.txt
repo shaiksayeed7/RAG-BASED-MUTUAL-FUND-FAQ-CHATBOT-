@@ -1,0 +1,46 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/expense-ratio.html
+SOURCE_NAME: AMFI - Expense Ratio in Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - EXPENSE RATIO IN MUTUAL FUNDS
+
+What is Expense Ratio?
+The Expense Ratio (also called Total Expense Ratio or TER) is the annual fee charged by a mutual fund scheme for managing your money. It is expressed as a percentage of the fund's Average Weekly Net Assets (AWNA). The expense ratio covers fund management fees, administrative expenses, marketing costs, registrar fees, and other operational costs.
+
+How is Expense Ratio calculated?
+Expense Ratio = Total Annual Expenses ÷ Average Net Assets of the Scheme × 100
+
+For example, if a fund has average net assets of Rs. 1,000 crore and annual expenses of Rs. 15 crore, the expense ratio is 1.5%.
+
+How does Expense Ratio affect my returns?
+The expense ratio is deducted daily from the NAV. If a fund earns 12% gross return and has an expense ratio of 1.5%, the net return to investors is approximately 10.5%. Lower expense ratio generally means better net returns to investors, all else being equal.
+
+SEBI Limits on Expense Ratio:
+As per SEBI circular dated September 18, 2018, the maximum permissible TER (Total Expense Ratio) is:
+- Equity Schemes with AUM up to Rs. 500 crore: 2.25%
+- Equity Schemes with AUM Rs. 500-750 crore: 2.00%
+- Equity Schemes with AUM Rs. 750-2000 crore: 1.75%
+- Equity Schemes with AUM Rs. 2000-5000 crore: 1.60%
+- Equity Schemes with AUM above Rs. 5000 crore: 1.50%
+- Additional 0.30% allowed for new inflows from cities beyond top 30 (B30 cities)
+- Direct Plans must have a lower TER than Regular Plans by at least the trail commission paid
+
+Regular Plan vs Direct Plan Expense Ratio:
+- Regular Plan: Includes distributor commission (trail fee), so TER is higher
+- Direct Plan: No distributor commission, so TER is lower
+- The difference between Regular and Direct plan TER is the distributor commission
+
+For HDFC Mutual Fund Schemes (as of November 2024):
+- HDFC Top 100 Fund Regular: 1.76% | Direct: 0.87%
+- HDFC Flexi Cap Fund Regular: 1.46% | Direct: 0.76%
+- HDFC ELSS Tax Saver Regular: 1.73% | Direct: 1.02%
+- HDFC Mid-Cap Opportunities Fund Regular: 1.68% | Direct: 0.76%
+
+Where to find Expense Ratio:
+1. AMFI monthly TER disclosure: https://www.amfiindia.com/expense-ratio
+2. AMC website (mandatory disclosure)
+3. Scheme factsheet
+4. Groww app: Fund details page shows current expense ratio
+
+SEBI Reference Circular: SEBI/HO/IMD/DF3/CIR/P/2018/197 dated October 5, 2018 on "Total Expense Ratio"
+Full text at: https://www.sebi.gov.in/legal/circulars/oct-2018/total-expense-ratio.html

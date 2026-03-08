@@ -1,0 +1,50 @@
+SOURCE_URL: https://www.amfiindia.com/investor-corner/knowledge-center/riskometer.html
+SOURCE_NAME: AMFI - Riskometer for Mutual Funds
+LAST_ACCESSED: December 2024
+
+AMFI - RISKOMETER FOR MUTUAL FUNDS
+
+What is the Riskometer?
+The Riskometer is a standardized risk measurement tool for mutual fund schemes in India, mandated by SEBI (Securities and Exchange Board of India). It visually depicts the risk level of a mutual fund scheme on a dial (like a speedometer) ranging from Low to Very High risk.
+
+Riskometer Risk Levels (6 levels as per SEBI Circular 2020):
+1. Low - Principal at low risk
+2. Low to Moderate - Principal at low to moderate risk
+3. Moderate - Principal at moderate risk
+4. Moderately High - Principal at moderately high risk
+5. High - Principal at high risk
+6. Very High - Principal at very high risk
+
+SEBI Circular on Riskometer (October 5, 2020):
+SEBI circular SEBI/HO/IMD/IMD-II DOF3/P/CIR/2020/198 mandated updated riskometer norms effective January 1, 2021. Key changes:
+- Riskometer must be evaluated and disclosed monthly
+- If the riskometer level changes, investors must be informed via email/SMS
+- Riskometer is based on objective parameters like credit risk, interest rate risk, liquidity risk for debt funds, and market cap allocation for equity funds
+
+Riskometer for HDFC Mutual Fund Schemes:
+- HDFC Top 100 Fund: VERY HIGH RISK
+  (Large cap equity fund; equity investments carry very high market risk)
+- HDFC Flexi Cap Fund: VERY HIGH RISK
+  (Multi-cap equity fund; equity investments carry very high market risk)
+- HDFC ELSS Tax Saver: VERY HIGH RISK
+  (Equity ELSS fund; equity investments carry very high market risk)
+- HDFC Mid-Cap Opportunities Fund: VERY HIGH RISK
+  (Mid cap equity fund; equity investments carry very high market risk)
+
+What does "Very High Risk" mean for equity funds?
+A "Very High Risk" riskometer means that the investor's principal is at very high risk due to market volatility. The value of investment can go down significantly in a short period. This does NOT mean the fund is of poor quality—it simply reflects the inherent volatility of equity markets.
+
+Are all equity mutual funds "Very High Risk"?
+Most equity mutual funds are rated "Very High Risk" on the riskometer because:
+- Equity markets are inherently volatile
+- The value of equity holdings can fluctuate significantly
+- Short-term losses are common even in well-managed equity funds
+
+Where to see the Riskometer?
+- Every scheme's factsheet, KIM, and SID must display the riskometer
+- AMC website scheme pages
+- AMFI scheme performance page: https://www.amfiindia.com/schemes-performance
+- Groww fund detail pages show the riskometer for each fund
+
+SEBI Reference: SEBI/HO/IMD/IMD-II DOF3/P/CIR/2020/198 dated October 5, 2020
+Full circular at: https://www.sebi.gov.in/legal/circulars/oct-2020/product-labeling-in-mutual-funds.html

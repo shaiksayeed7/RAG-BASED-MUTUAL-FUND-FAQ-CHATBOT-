@@ -1,0 +1,44 @@
+SOURCE_URL: https://www.hdfcfund.com/service/tax-documents
+SOURCE_NAME: HDFC Mutual Fund - Tax Documents and Statements
+LAST_ACCESSED: December 2024
+
+HDFC MUTUAL FUND - TAX DOCUMENTS
+
+HDFC Mutual Fund provides the following tax-related documents for investors:
+
+1. Capital Gains Statement
+Purpose: Used for filing Income Tax Return (ITR) to declare gains from mutual fund redemptions.
+How to download:
+- Login to https://www.hdfcfund.com → Tax Reports → Capital Gains Statement
+- Or visit: https://www.camsonline.com → Select Capital Gains Statement
+- Available formats: PDF, Excel (XLS)
+Covers: All redemptions, switches, and IDCW (dividend) payouts during the financial year
+
+2. 80C Tax Saving Statement (ELSS)
+Purpose: Proof of ELSS investment for Section 80C deduction claim.
+Applicable Scheme: HDFC ELSS Tax Saver
+How to download:
+- Login to HDFC Fund → Tax Reports → 80C Statement
+- Or use CAMS: https://www.camsonline.com → Investor Services → Tax Statements
+- Shows: Investment amount, date, units allotted for the financial year
+
+3. TDS Certificate (Form 16A)
+Purpose: For NRI investors (Non-Resident Indians) who have TDS (Tax Deducted at Source) on redemptions.
+For Resident Indians: TDS is generally not applicable on mutual fund redemptions (as of FY 2024-25).
+How to access: Login to HDFC Fund → Tax Reports → TDS Certificate
+
+Tax Rates Summary for Mutual Fund Gains (FY 2024-25):
+Equity Mutual Funds (including HDFC Top 100, Flexi Cap, ELSS, Mid-Cap):
+- STCG (Short-Term Capital Gains): 20% (if held < 1 year; 3 years for ELSS)
+- LTCG (Long-Term Capital Gains): 12.5% on gains above Rs. 1,25,000 per year (if held > 1 year; > 3 years for ELSS)
+
+Debt Mutual Funds (if held > 3 years purchased before April 1, 2023):
+- LTCG: 20% with indexation
+Note: From April 1, 2023, gains from debt mutual funds are taxed at slab rates irrespective of holding period.
+
+HDFC Mutual Fund Tax Help Center:
+Phone: 1800-3010-6767 (toll-free, 8 AM to 8 PM, Monday to Saturday)
+Email: clintservices@hdfcfund.com
+
+Full tax information at: https://www.hdfcfund.com/service/tax-documents
+AMFI Tax Corner: https://www.amfiindia.com/investor-corner/knowledge-center/taxation.html

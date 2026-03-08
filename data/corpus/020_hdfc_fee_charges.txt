@@ -1,0 +1,56 @@
+SOURCE_URL: https://www.hdfcfund.com/content/dam/abc/india/assets/images/charges/hdfc-mutual-fund-charges-fees.pdf
+SOURCE_NAME: HDFC Mutual Fund - Fee and Charges Schedule
+LAST_ACCESSED: December 2024
+
+HDFC MUTUAL FUND - FEE AND CHARGES SCHEDULE
+
+Summary of charges applicable to HDFC Mutual Fund schemes:
+
+ENTRY LOAD: NIL
+(Entry load was abolished by SEBI for all mutual fund schemes from August 1, 2009.)
+
+EXIT LOAD (Scheme-wise):
+
+HDFC Top 100 Fund:
+- Within 1 year (365 days): 1.00%
+- After 1 year: Nil
+- Exit load is not applicable on: Units allotted through dividend reinvestment
+
+HDFC Flexi Cap Fund:
+- Within 1 year (365 days): 1.00%
+- After 1 year: Nil
+
+HDFC ELSS Tax Saver:
+- Exit Load: NIL (all units are locked in for 3 years; no exit load after lock-in ends)
+
+HDFC Mid-Cap Opportunities Fund:
+- Within 1 year (365 days): 1.00%
+- After 1 year: Nil
+
+SWITCH LOAD:
+- Same as Exit Load applies when switching between schemes
+- Switching from equity scheme within 1 year: 1% exit load on the amount switched out
+- No load on switching between growth and IDCW options within the same scheme
+
+STAMP DUTY (Effective July 1, 2020):
+- On Purchase of Mutual Fund units: 0.005% of investment amount
+- On Switch (out): 0.015% of switch amount
+- Governed by Stamp Duty Act
+- Collected at the time of unit allotment
+
+TRANSACTION CHARGES (Distributor-based):
+- For investments through distributors (Groww, banks, etc.)
+- For investments ≥ Rs. 10,000 via distributor: Rs. 150 one-time for new investor (only in Regular Plan)
+- For existing investors: Rs. 100 (only in Regular Plan, first investment ≥ Rs. 10,000)
+- NOT applicable for Direct Plan investments
+- NOT applicable for SIP investments where total commitment < Rs. 10,000
+
+DEMAT TRANSACTION CHARGES:
+- If you hold mutual fund units in demat form through NSDL/CDSL, annual demat charges apply as per your broker's fee structure
+- This is separate from the fund's own charges
+
+SERVICE TAX / GST on Expense Ratio:
+- GST (18%) is applicable on the investment management fee component of the TER
+- The expense ratio already includes GST; it's included in the published TER
+
+For the most current fee schedule, visit: https://www.hdfcfund.com/loads

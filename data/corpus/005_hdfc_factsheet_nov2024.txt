@@ -1,0 +1,44 @@
+SOURCE_URL: https://www.hdfcfund.com/content/dam/abc/india/assets/images/factsheet/2024/hdfc-mutual-fund-factsheet-november-2024.pdf
+SOURCE_NAME: HDFC Mutual Fund Factsheet - November 2024
+LAST_ACCESSED: December 2024
+
+HDFC MUTUAL FUND FACTSHEET - NOVEMBER 2024
+
+Key Information for HDFC Top 100 Fund:
+- AUM (Assets Under Management): Rs. 38,073 Crore (as of November 30, 2024)
+- NAV (Regular Growth): Rs. 1,111.25 (as of November 30, 2024)
+- NAV (Direct Growth): Rs. 1,202.50 (as of November 30, 2024)
+- Expense Ratio (Regular): 1.76%
+- Expense Ratio (Direct): 0.87%
+- Portfolio Turnover: 0.34 times
+- Benchmark: NIFTY 100 TRI
+- Top Holdings: HDFC Bank, ICICI Bank, Reliance Industries, Infosys, Tata Consultancy Services
+
+Key Information for HDFC Flexi Cap Fund:
+- AUM (Assets Under Management): Rs. 65,847 Crore (as of November 30, 2024)
+- NAV (Regular Growth): Rs. 1,822.60 (as of November 30, 2024)
+- NAV (Direct Growth): Rs. 2,016.90 (as of November 30, 2024)
+- Expense Ratio (Regular): 1.46%
+- Expense Ratio (Direct): 0.76%
+- Benchmark: NIFTY 500 TRI
+- Top Holdings: HDFC Bank, ICICI Bank, Infosys, Kotak Mahindra Bank, Larsen & Toubro
+
+Key Information for HDFC ELSS Tax Saver:
+- AUM (Assets Under Management): Rs. 14,526 Crore (as of November 30, 2024)
+- NAV (Regular Growth): Rs. 1,289.35 (as of November 30, 2024)
+- NAV (Direct Growth): Rs. 1,448.20 (as of November 30, 2024)
+- Expense Ratio (Regular): 1.73%
+- Expense Ratio (Direct): 1.02%
+- Benchmark: NIFTY 500 TRI
+- Lock-in: 3 years (mandatory, statutory requirement)
+
+Key Information for HDFC Mid-Cap Opportunities Fund:
+- AUM (Assets Under Management): Rs. 75,212 Crore (as of November 30, 2024)
+- NAV (Regular Growth): Rs. 248.53 (as of November 30, 2024)
+- NAV (Direct Growth): Rs. 293.15 (as of November 30, 2024)
+- Expense Ratio (Regular): 1.68%
+- Expense Ratio (Direct): 0.76%
+- Benchmark: NIFTY Midcap 150 TRI
+
+Note: AUM and NAV figures change daily. Always verify from the official HDFC Fund website or AMFI NAV portal for current values.
+AMFI NAV Portal: https://www.amfiindia.com/nav-history-download

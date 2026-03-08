@@ -1,0 +1,51 @@
+SOURCE_URL: https://www.hdfcfund.com/content/dam/abc/india/assets/images/kim/hdfc-top-100-fund-kim.pdf
+SOURCE_NAME: HDFC Top 100 Fund - Key Information Memorandum (KIM)
+LAST_ACCESSED: December 2024
+
+HDFC TOP 100 FUND - KEY INFORMATION MEMORANDUM (KIM)
+
+Scheme Name: HDFC Top 100 Fund
+Type: Open-Ended Equity Scheme predominantly investing in Large Cap Stocks
+Category: Large Cap Fund
+
+Fundamental Attributes:
+- Investment Universe: Large Cap companies (top 100 stocks by market cap as defined by AMFI)
+- Fund Focus: Capital appreciation through equity and equity related securities of large cap companies
+
+Load Structure:
+Entry Load: Not Applicable (SEBI has abolished entry load since August 2009)
+Exit Load:
+  - 1% on redemption/switch-out of units within 365 days (1 year) from date of allotment
+  - Nil on redemption/switch-out of units after 365 days from date of allotment
+  - Exit load is not applicable on STP (Systematic Transfer Plan) registered before October 22, 2022
+
+Recurring Expenses (Expense Ratio):
+- Regular Plan: Up to 2.25% per annum (actual ~1.76% as of November 2024)
+- Direct Plan: Lower than Regular Plan (actual ~0.87% as of November 2024)
+- The total expense ratio (TER) is disclosed monthly by the AMC on AMFI website and its own website
+
+Minimum Application Amount:
+- Fresh Purchase: Rs. 100 and any amount thereafter
+- Additional Purchase: Rs. 100 and any amount thereafter
+- SIP: Rs. 100 per installment (minimum 6 installments)
+
+Benchmark: NIFTY 100 TRI
+Riskometer Level: VERY HIGH
+(This product is suitable for investors who are seeking long-term capital growth and who understand that their principal will be at very high risk)
+
+Dividend/IDCW Policy:
+- IDCW (Income Distribution cum Capital Withdrawal) is paid at the discretion of the fund manager
+- IDCW is not guaranteed
+- Upon payment of IDCW, the NAV of the scheme will fall to the extent of the IDCW paid
+
+Tax Benefits: None (Not an ELSS scheme)
+
+Section 80C: NOT APPLICABLE (HDFC Top 100 Fund does not qualify for Section 80C deduction)
+
+Investor Suitability:
+The fund is suitable for investors who:
+1. Seek long-term capital appreciation
+2. Have an investment horizon of 3 years or more
+3. Are comfortable with very high risk to their principal
+
+Important Note: Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing.
